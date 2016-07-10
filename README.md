@@ -1,10 +1,10 @@
 # RhymeMusic
 ##应用截图
-  * 主界面
+  * 主界面<br>
   <img src="https://raw.githubusercontent.com/ValueYouth/RhymeMusic/master/screenshots/001.jpg" width="25%"  />
   <img src="https://raw.githubusercontent.com/ValueYouth/RhymeMusic/master/screenshots/002.jpg" width="25%"  />
   <img src="https://raw.githubusercontent.com/ValueYouth/RhymeMusic/master/screenshots/003.jpg" width="25%"  />
-  
+  * 播放详情界面<br>
   <img src="https://raw.githubusercontent.com/ValueYouth/RhymeMusic/master/screenshots/004.jpg" width="25%"  />
   <img src="https://raw.githubusercontent.com/ValueYouth/RhymeMusic/master/screenshots/005.jpg" width="25%"  />
   <img src="https://raw.githubusercontent.com/ValueYouth/RhymeMusic/master/screenshots/006.jpg" width="25%"  />
