@@ -23,7 +23,7 @@
 ##关于
 * 音乐播放器所有素材均来自<a href="http://www.iconfont.cn/" target="_blank">`iconfont`</a> 。
 * 歌词显示的相关代码也是来自网络，但是我忘记了出处。谢谢这位大神。
-* 在线音乐的API选用的是<a href="https://www.showapi.com/" target="_top">`易源API`</a> 。。
+* 在线音乐的API选用的是<a href="https://www.showapi.com/" target="_blank">`易源API`</a> 。。
 * 其实，这是我的毕业设计作品。做成这个样子，我也算是比较满意了。不过，在这里面倒是留了不少坑，在以后的工作闲暇之余，我会
   努力填坑，是“韵”变得更好。感谢在开发过程中帮助过我的人，谢谢你们。
 * 最后安利一句：音乐，让生活更美好！
