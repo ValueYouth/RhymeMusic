@@ -24,4 +24,4 @@
 
 ##下载应用
 
-<a href="https://github.com/w9xhc/Hide-Music-Player/blob/master/apk/hide_player.apk" target="_blank">下载“韵”应用</a> 
+<a href="http://pan.baidu.com/s/1hrIi7qc" target="_blank">下载“韵”应用</a> 
