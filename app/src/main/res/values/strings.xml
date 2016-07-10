@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">韵</string>
+    <string name="search_hint">搜索音乐名称或歌手</string>
+    <string name="nav_tips">用音乐，去记录点滴生活！</string>
+    <string name="no_lyrics">没有歌词</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- 帮助文本的显示 -->
+    <string name="tips_one">问题1：为什么我点击了音乐按钮，它不会播放？</string>
+    <string name="answer_one">
+        因为在设计音乐播放器的过程中，这个按钮是作为进入“播放详情界面”的入口。
+        而当没有音乐在播放时，进入详情界面就显得没有意义。因此，只有你点击列表
+        中的音乐，并开始播放后，方能点击此按钮。
+    </string>
+
+    <string name="tips_two">问题2：为什么我在“播放详情界面”，没有歌词显示？</string>
+    <string name="answer_two">
+        首先，“韵”是有本地音乐歌词的显示功能的。如果你向左滑动专辑图片，你就会
+        进入歌词显示界面。当然，如果你本地没有歌词文件，你只会看到一句提示：请
+        将歌词文件放在音乐文件夹下，并与目标音乐命名保持一致。如果，以上的步骤
+        都执行完毕，你就会看到在歌词界面划过美丽的歌词。
+    </string>
+
+    <string name="tips_three">问题3：为什么夜间模式的启动需要黑屏好几秒？</string>
+    <string name="answer_three">
+        夜间模式启动时会黑屏三秒左右，最大的原因就是：在更换主题的时候，要重新加载
+        列表中的各项数据。其中，占据cpu时间最多的当属图片。因此，为了加载完成所有
+        数据，暂时只能这样。加入启动画面，也有这方面的考虑。不过，以后肯定会改进！
+    </string>
+
+    <string name="tips_four">问题4：为什么在本地播放列表中，上下滑动会很卡？</string>
+    <string name="answer_four">
+        首先，本地图片的加载是一个很耗空间的事情。其次，在开发的过程中，由于时间比
+        较匆忙，所以对图片没有进行太大的优化。往后会进行优化，并尽快更新版本。
+    </string>
+
+    <string name="tips_five">问题5：为什么搜索功能只有本地，以及搜索歌曲点击播放时好像会崩？</string>
+    <string name="answer_five">
+        由于时间的原因，搜索功能暂时只实现了本地的搜索与播放。点击搜索结果会崩溃，
+        这个应该和Android系统有关系。当我在比较新的系统Android 6.0上测试时，
+        也出现了崩溃的现象。这个会在后续改进。
+    </string>
+</resources>

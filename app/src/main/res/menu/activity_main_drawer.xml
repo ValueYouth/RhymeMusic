@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_search"
+        android:icon="@drawable/search"
+        android:title="搜索歌曲"/>
+    <item
+        android:id="@+id/nav_play_mode"
+        android:icon="@drawable/play_mode"
+        android:title="播放模式"/>
+    <item
+        android:id="@+id/nav_read_audio"
+        android:icon="@drawable/read_audio"
+        android:title="听歌识曲"/>
+
+    <item android:title="设置相关">
+        <menu>
+            <item
+                android:id="@+id/nav_auto_stop"
+                android:icon="@drawable/auto_stop"
+                android:title="定时停止播放"/>
+            <item
+                android:id="@+id/nav_night_mode"
+                android:icon="@drawable/day_mode"
+                android:title="开启夜间模式"/>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/nav_about"
+                android:title="关于应用"/>
+            <item
+                android:id="@+id/nav_quit"
+                android:icon="@drawable/quit"
+                android:title="退出应用"/>
+        </menu>
+    </item>
+
+</menu>

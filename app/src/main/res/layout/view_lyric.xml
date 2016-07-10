@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/mylayout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:lyric="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <priv.valueyouth.rhymemusic.lrc_view.LyricView
+        android:id="@+id/lrc_view"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:paddingLeft="50dp"
+        android:paddingRight="50dp"
+        lyric:animDuration="400"
+        lyric:currentTextColor="#FF4081"
+        lyric:lineSpace="10dp"
+        lyric:maxLine="10"
+        lyric:textColor="#3F51B5"
+        lyric:textSize="17sp"/>
+
+    <!--#FF0E8DC4-->
+
+</LinearLayout>

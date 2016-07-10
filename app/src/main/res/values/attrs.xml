@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="lyric">
+
+        <!-- 字体大小 -->
+        <attr name="textSize" format="dimension" />
+
+        <!-- 字体颜色 -->
+        <attr name="textColor" format="color" />
+
+        <!-- 当前播放行字体颜色 -->
+        <attr name="currentTextColor" format="color" />
+
+        <!-- 最大歌词行数，不包含自动换行 -->
+        <attr name="maxLine" format="integer" />
+
+        <!-- 行距 -->
+        <attr name="lineSpace" format="dimension" />
+
+        <!-- 滚动动画时间（毫秒） -->
+        <attr name="animDuration" format="integer" />
+    </declare-styleable>
+
+</resources>
