@@ -21,6 +21,7 @@
 * 由于对在线播放逻辑编写的比较仓促，因此本应用需要在联网的情况下才能正常播放。后续有待改进。
 
 ## 关于
+
 * 音乐播放器所有素材均来自<a href="http://www.iconfont.cn/" target="_blank">`iconfont`</a> 。
 * 歌词显示的相关代码也是来自网络，但是我忘记了出处。谢谢这位大神。
 * 在线音乐的API选用的是<a href="https://www.showapi.com/" target="_blank">`易源API`</a> 。
@@ -30,4 +31,8 @@
 
 ## 下载应用
 
-<a href="http://pan.baidu.com/s/1hrIi7qc" target="_blank">下载`韵`音乐播放器</a> 
+[下载`韵`音乐播放器]("http://pan.baidu.com/s/1hrIi7qc")
+
+## 个人博客  
+
+[ValueYouth的个人博客](https://valueyouth.github.io/)
