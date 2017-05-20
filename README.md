@@ -31,8 +31,10 @@
 
 ## 下载应用
 
-[下载`韵`音乐播放器]("http://pan.baidu.com/s/1hrIi7qc")
+<a href="http://pan.baidu.com/s/1hrIi7qc" target="_blank">下载韵音乐播放器</a>
+
+[下载韵音乐播放器]("http://pan.baidu.com/s/1hrIi7qc")
 
 ## 个人博客  
 
-[ValueYouth的个人博客](https://valueyouth.github.io/)
+<a href="https://valueyouth.github.io/" target="_blank">ValueYouth的个人博客</a>
